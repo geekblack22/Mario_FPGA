@@ -1,0 +1,29 @@
+{
+  "version": "2021.1",
+  "applications": [],
+  "platforms": [
+    {
+      "name": "design_1_wrapper"
+    }
+  ],
+  "systems": [
+    {
+      "name": "lab4_app_system",
+      "platform": "C:/Users/yveder/workspace/lab4_project/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm",
+      "sysConfig": "design_1_wrapper",
+      "buildConfig": "Debug",
+      "applications": [
+        {
+          "name": "lab4_app",
+          "platform": "C:/Users/yveder/workspace/lab4_project/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm",
+          "platformPath": "C:\\Users\\yveder\\workspace\\lab4_project\\design_1_wrapper\\export\\design_1_wrapper",
+          "sysConfig": "design_1_wrapper",
+          "domain": "standalone_microblaze_0",
+          "system": "lab4_app_system"
+        }
+      ],
+      "platformPath": "C:\\Users\\yveder\\workspace\\lab4_project\\design_1_wrapper\\export\\design_1_wrapper"
+    }
+  ],
+  "others": []
+}
